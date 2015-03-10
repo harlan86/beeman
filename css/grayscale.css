@@ -161,6 +161,7 @@ a:focus {
 
    .bee {
     width: 100%;
+
    
 }
 
@@ -198,6 +199,7 @@ a:focus {
     }
 
     .bee {
+        margin-top: 50px;
     width: 100%;
 
 }}
