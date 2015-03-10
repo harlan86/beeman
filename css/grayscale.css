@@ -155,10 +155,12 @@ a:focus {
     color: #fff;
   
     background-color: #eee810;
-    -webkit-background-size: 700px;
-    -moz-background-size: 700px;
-    background-size: 700px;
-    -o-background-size:700px;
+
+}
+
+   .bee {
+    width: 400px;
+   
 }
 
 .intro .intro-body {
@@ -187,7 +189,11 @@ a:focus {
     .intro .intro-body .intro-text {
         font-size: 26px;
     }
-}
+
+    .bee {
+    width: 700px;
+
+}}
 
 
 .servizi {
