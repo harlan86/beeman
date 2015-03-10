@@ -159,9 +159,15 @@ a:focus {
 }
 
    .bee {
-    width: 500px;
+    width: 100%;
    
 }
+
+.logobee { transition: all .2s ease-in-out; }
+.logobee:hover { transform: scale(1.5); }
+
+
+
 
 .intro .intro-body {
     display: table-cell;
@@ -191,7 +197,7 @@ a:focus {
     }
 
     .bee {
-    width: 700px;
+    width: 100%;
 
 }}
 
