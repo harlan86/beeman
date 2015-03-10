@@ -197,11 +197,11 @@ a:focus {
     padding: 100px 0;
     text-align: center;
     color: #000;
-
+    background-image: url();
     background-color: #eee810;
 
 }
-.servizi h2{
+.servizi h2, h3, h4, h1{
 
     color: #000;
 
@@ -222,7 +222,7 @@ a:focus {
     background-color: #eee810;
 
 }
-.contatti h2{
+.contatti h2, h3, h4, h1{
 
     color: #000;
 
