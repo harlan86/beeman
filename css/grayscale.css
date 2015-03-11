@@ -184,7 +184,7 @@ a:focus {
     font-size: 18px;
 }
 
-@media(min-width:768px) {
+@media(min-width:768px)  {
     .intro {
         height: 100%;
         padding: 0;
@@ -205,19 +205,32 @@ a:focus {
 
     .boxes {
 
-max-width: 30%;
+width: 30%;
 }
 
     .esagono {
-max-width: 30%;
+width: 15%;
 }
 
 }
+
+@media(min-width:200px) and (max-width: 768px) {
+  
+
+    .boxes {
+width: 100%;
+}
+
+}
+
+
+
 
 .esagono {
     padding-top: 30px;
-    max-width:15%;
+    width:20%;
 }
+.esagono:hover { transform: scale(1.3); }
 
 .servizi {
     display: table;
@@ -245,7 +258,7 @@ max-width: 30%;
 .boxes {
 background: #999220;
 margin-top: 10px;
-margin-left: 20px;
+margin-left: 10px;
 height: 300px;
 max-width: 100%;
 }
