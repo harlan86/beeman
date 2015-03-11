@@ -219,33 +219,39 @@ a:focus {
 .servizi h2, h3, h4, h1{
 
     color: #000;
+}
 
-
+.servizi h4{
+    font-size: 20px;
 }
 .servizi p{
-  text-align: justify;
+    text-align: center;
   }
 
-  .contatti {
-    display: table;
-    width: 100%;
-    height: auto;
-    padding: 100px 0;
-    text-align: center;
-    color: #000;
-
-    background-color: #eee810;
-
+.boxes {
+background: #999220;
+margin-left: 20px;
+height: 200px;
+max-width: 30%;
 }
+
+.contatti {
+display: table;
+width: 100%;
+height: auto;
+padding: 100px 0;
+text-align: center;
+color: #000;
+background-color: #eee810;
+}
+
 .contatti h2, h3, h4, h1{
-
     color: #000;
-
-
 }
+
 .contatti p{
   text-align: center;
-  }
+}
 
 .btn-circle {
     width: 70px;
