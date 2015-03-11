@@ -201,13 +201,24 @@ a:focus {
     .bee {
         margin-top: 50px;
     width: 100%;
+    }
 
-}}
+    .boxes {
+
+max-width: 30%;
+}
+
+    .esagono {
+max-width: 30%;
+}
+
+}
 
 .esagono {
     padding-top: 30px;
-
+    max-width:15%;
 }
+
 .servizi {
     display: table;
     width: 100%;
@@ -236,7 +247,7 @@ background: #999220;
 margin-top: 10px;
 margin-left: 20px;
 height: 300px;
-max-width: 30%;
+max-width: 100%;
 }
 
 .contatti {
