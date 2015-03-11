@@ -23,7 +23,7 @@ h3,
 h4,
 h5,
 h6 {
-    margin-top:40px;
+    margin-top:20px;
    
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -204,7 +204,10 @@ a:focus {
 
 }}
 
+.esagono {
+    padding-top: 30px;
 
+}
 .servizi {
     display: table;
     width: 100%;
@@ -230,8 +233,9 @@ a:focus {
 
 .boxes {
 background: #999220;
+margin-top: 10px;
 margin-left: 20px;
-height: 200px;
+height: 300px;
 max-width: 30%;
 }
 
