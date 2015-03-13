@@ -7,7 +7,7 @@
 body {
     width: 100%;
     height: 100%;
-    font-family: Special Elite,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: Comfortaa,"Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #fff;
     background-color: #000;
 }
@@ -26,7 +26,7 @@ h6 {
     margin-top:20px;
    
     text-transform: uppercase;
-    font-family: Special Elite,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: Comfortaa,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     letter-spacing: 1px;
     color: #eee810;
@@ -205,24 +205,29 @@ a:focus {
 
     .boxes {
 
-width: 30%;
-height: 230px;
+      width: 30%;
+      height: 300px;
+    }
+
+
+
 }
 
-    .esagono {
-width: 15%;
+
+
+.boxes {
+ background: #999220;
+ margin-top: 10px;
+ margin-left: 10px;
+ padding-bottom: 10px;
+ height: 300px;
+ max-width: 100%;
 }
-
-}
-
-
-
-
 
 
 .esagono {
-    padding-top: 30px;
-    width:20%;
+ padding-top: 30px;
+ width:100px
 }
 .esagono:hover { transform: scale(1.3); }
 
@@ -249,14 +254,7 @@ width: 15%;
     text-align: center;
   }
 
-.boxes {
-background: #999220;
-margin-top: 10px;
-margin-left: 10px;
-padding-bottom: 10px;
-height: 270px;
-max-width: 100%;
-}
+
 
 .contatti {
 display: table;
